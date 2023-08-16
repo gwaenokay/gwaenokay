@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Dzaki Firdaus**.
 
-Saya seorang **Mahasiswa** Semester 5 Jurusan D-4 Teknologi Rekayasa Multimedia di [Polimedia Jakarta]([https://www.dicoding.com/](https://polimedia.ac.id/)).
+Saya seorang **Mahasiswa** Semester 5 Jurusan D-4 Teknologi Rekayasa Multimedia di [Polimedia Jakarta](https://polimedia.ac.id/).
 
 Saya tertarik pada bidang Bahasa Pemrograman dan Desain Grafis.
 
